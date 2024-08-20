@@ -116,15 +116,6 @@ function valexnt() {
     );
 }
 
-function discord() {
-    memberCall(
-        "assets/web_icon.png",
-        "<a href='https://discord.gg/rRY98d55' target='_blank' style='color: white;'>discord</a>",
-        "valexnt"
-    );
-}
-
-
 
 
 
